@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["anomecs.top"];
-pub const RS_PUB_KEY: &str = "U2sZLbqilOOSIkqMIqSqUn3xwa8Daz8QminhknrtkfI=";
+pub const RS_PUB_KEY: &str = "ij1iCOcsyNZ4ziPCewjoCm3Qcdyrlyz1yFvePECjARY=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
